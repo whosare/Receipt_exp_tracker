@@ -3,7 +3,7 @@ Main structure:
 - Upload receipt images and extract data using **Tesseract OCR**
 - JWT-based authentication (login, register, secure user sessions)
 - Visualize spending with React.js + Chart.js
-- 🗄Store and manage expenses in a PostgreSQL database
+- Store and manage expenses in a PostgreSQL database
 - Fast backend API built with **FastAPI**
 - Frontend developed with React, React Router, and styled with TailwindCSS
 
